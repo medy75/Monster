@@ -14,9 +14,19 @@
  - TestNG
  - Selenium
   
- ###Additional
+ ### Additional
  - Added Maven support because of dependencies management
  - Using [WebdriverManager](https://github.com/bonigarcia/webdrivermanager) to handle correct webdrivers
  - Log4J for logging
+ 
+ ## How to install
+ - Clone this repository: `git clone git@github.com:medy75/Monster.git`
+ 
+ - Go into the directory with cloned project: `cd Monster`
+ 
+ - Run Maven compile command: `mvn clean compile`
+ 
+ 
+ 
  
  
